@@ -1,0 +1,6 @@
+title,author,price,isbn,quantity
+book1,aaa,100,11aa,17
+book2,bbb,200,22bb,20
+book3,ccc,300,33cc,30
+book4,ddd,400,44dd,40
+book4,eeee,500.0,55ee,50
